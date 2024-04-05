@@ -1,0 +1,13 @@
+npm create-react-appp appName
+cd projDirectory
+npm run dev
+SignUp
+userIcon---form
+emailIcon---form
+passwordIcon---
+lost password span Click here
+SignUp 
+Login
+
+placeholder
+ClassName= {action==='signup' ? 'submit gray' : 'submit'}  onclick={()=> {SecurityPolicyViolationEvent('SignUp')}}
